@@ -44,6 +44,10 @@ html, body {
     margin: 0 auto;
 }
 
+.input__weight {
+    height: 2.25rem;
+}
+
 .planets {
     max-width: 600px;
     margin: 3rem auto;
